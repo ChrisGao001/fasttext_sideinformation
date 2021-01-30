@@ -1,0 +1,2 @@
+# fasttext_sideinformation
+sideinformation embedding
